@@ -1,0 +1,19 @@
+{
+   "club": {
+     "name": "Retro DAO",
+     "description": "A club for all the Retro Apple DAO yets",
+     "colors": [
+       "#b9c2c4",
+       "#dad7c8",
+       "#e7cbbs",
+       "#c28256",
+       "#946342",
+       "#000000"
+  ]
+}.
+"traits": {
+ "Eyewear": [
+   "Retro Apple"
+    ]
+  }
+}  
